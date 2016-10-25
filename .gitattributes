@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 *.out filter=lfs diff=lfs merge=lfs -text
 a.jar filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+test.psd filter=lfs diff=lfs merge=lfs -text
+test2.psd filter=lfs diff=lfs merge=lfs -text
+=======
+*.psd filter=lfs diff=lfs merge=lfs -text
+test.psd filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 8984a1c11b690624e73944c4db50d66732c04099
+>>>>>>> f48c874333145c7c7136ca9175e9c99b162224ad

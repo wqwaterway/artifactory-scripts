@@ -1,1 +1,2 @@
 test.psd filter=lfs diff=lfs merge=lfs -text
+test2.psd filter=lfs diff=lfs merge=lfs -text
